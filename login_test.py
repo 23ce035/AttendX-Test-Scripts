@@ -1,7 +1,7 @@
 print("Testing Login Functionality")
 
 username="student"
-password="12345"
+password="12345678"
 
 if username=="student" and password=="12345":
     print("Login Successful")
